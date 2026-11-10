@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sequa.io/sitemap.xml
